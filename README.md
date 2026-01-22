@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently exploring **Machine learning**
 
-- 👨💻 Know me more <a href="https://github.com/varunyadav2001" style="text-decoration: none;">Portfolio</a>
+- 👨💻 Know me more <a href="https://varunyadav2001.github.io/personal-website-/" style="text-decoration: none;">Portfolio</a>
 
   
 
