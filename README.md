@@ -18,7 +18,7 @@
 
 - 🔭 I’m looking to contribute to **Open Source**
 
-- 🌱 I’m currently exploring **Machine learning**
+- 🌱 I’m currently exploring **data analyst**
 
 - 👨💻 Know me more <a href="https://varunyadav2001.github.io/my-website/" style="text-decoration: none;">Portfolio</a>
 
