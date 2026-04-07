@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently exploring **data analyst**
 
-- 👨💻 Know me more <a href="https://varunyadav2001.github.io/my-website/" style="text-decoration: none;">Portfolio</a>
+- 👨💻 Know me more <a href="https://varunyadav2001.github.io/personal-website/" style="text-decoration: none;">Portfolio</a>
 
   
 
