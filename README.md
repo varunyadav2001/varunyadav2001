@@ -18,7 +18,7 @@
 
 - 🔭 I’m looking to contribute to **Open Source**
 
-- 🌱 I’m currently exploring **data analyst**
+- 🌱 I’m currently exploring **flutter and Dart language**
 
 - 👨💻 Know me more <a href="https://varunyadav2001.github.io/personal-website/" style="text-decoration: none;">Portfolio</a>
 
