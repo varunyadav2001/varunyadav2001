@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Varun yadav</h1>
 
-<h3 align="center">A passionate Full stack web developer from India. </h3>
+<h3 align="center">A passionate Full stack android devloper from India. </h3>
 
 
 <p align="left">
