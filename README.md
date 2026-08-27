@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently exploring **flutter and Dart language**
 
-- 👨💻 Know me more <a href="https://varunyadav2001.github.io/personal-website/" style="text-decoration: none;">Portfolio</a>
+- 👨💻 Know me more <a href="[https://varunyadav2001.github.io/personal-website/](https://varunyadav2001.github.io/varun-portfolio/)" style="text-decoration: none;">Portfolio</a>
 
   
 
